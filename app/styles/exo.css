@@ -1,0 +1,34 @@
+@import url(https://fonts.googleapis.com/css?family=Ubuntu);
+
+body{
+  margin:0px;
+  padding: 0px;
+  overflow: hidden;
+  background: black;
+  font-family: 'Ubuntu', sans-serif;
+}
+
+.overlay
+{
+  opacity: 0;
+}
+
+.info
+{
+  background: dodgerblue;
+  position: absolute;
+  top:25px;
+  right: 25px;
+  min-height: 100px;
+  width: 300px;
+  color: #fff;
+  display: none;
+  padding: 10px;
+}
+
+h1
+{
+  color: dodgerblue;
+  position: fixed;
+  left: 25px;
+}

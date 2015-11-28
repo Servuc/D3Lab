@@ -3,7 +3,8 @@
   "version": "0.0.0",
   "dependencies": {
     "bootstrap": "~3.0.0",
-    "jquery": "~1.9.0"
+    "jquery": "~1.9.0",
+    "d3": "~3.5.9"
   },
   "devDependencies": {
     "qunit": "~1.19.0"
